@@ -1,0 +1,16 @@
+{
+  "homepage": "github.com/rfsjim/ShinyTools/",
+  "1.16.5": {
+    "1.0.0.0": "Initial version of Shiny Tools", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+    ...
+  },
+  ...
+  "promos": {
+    "1.16.5-latest": "1.0.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.16.5-recommended": "1.0.0.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
