@@ -1,0 +1,17 @@
+8110c472f65137e18a94bc3e048c6e66eb51fbdc assets/shinytools/blockstates/silver_block.json
+c41db40d62d7c159e018a14988e886bff3d1d342 assets/shinytools/blockstates/silver_ore.json
+19f04f7a2417273fef83c8873d0feebf1db40395 assets/shinytools/models/block/silver_block.json
+8feecb6facc84220299e8a1235cf001957986806 assets/shinytools/models/block/silver_ore.json
+e3109e1936b2ba20463288e3ad6c3d50e6acb12b assets/shinytools/models/item/silver_block.json
+8a6256fe141b41126eda54c0290d8676c19dcb6f assets/shinytools/models/item/silver_ingot.json
+9cb6d81550147f01d1eafd00f124acbd16d44ce9 assets/shinytools/models/item/silver_ore.json
+0d1d401bdc2282349b66f841d5febee4c074cabb data/forge/tags/blocks/ores.json
+0413d1f89c103298a1e4c007063040a66ff3b680 data/forge/tags/blocks/ores/silver.json
+a68c6de6ef36f81f3f3b18740c79b09583ed31f1 data/forge/tags/blocks/storage_blocks.json
+7d12efdc1ad9b84282df80eb7015f83fdeea8ea9 data/forge/tags/blocks/storage_blocks/silver.json
+6aca82e8ad81198ae376ca71b9429dcaa8ebf33b data/forge/tags/items/ingots.json
+cebbd70795262dfdc3dc61345e12e4162b840f11 data/forge/tags/items/ingots/silver.json
+0d1d401bdc2282349b66f841d5febee4c074cabb data/forge/tags/items/ores.json
+0413d1f89c103298a1e4c007063040a66ff3b680 data/forge/tags/items/ores/silver.json
+a68c6de6ef36f81f3f3b18740c79b09583ed31f1 data/forge/tags/items/storage_blocks.json
+7d12efdc1ad9b84282df80eb7015f83fdeea8ea9 data/forge/tags/items/storage_blocks/silver.json

@@ -1,0 +1,38 @@
+	# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+    modLoader="javafml"
+    # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+    # Forge for 1.16.3 is version 34
+    loaderVersion="[36,)"
+    # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+    license="GNU GPLv3"
+    # A URL to refer people to when problems occur with this mod
+    issueTrackerURL="https://github.com/rfsjim/ShinyTools/issues"
+    # If the mods defined in this file should show as seperate resource packs
+    showAsResourcePack=false
+
+    [[mods]]
+      modId="shinytools"
+      version="1.0.0.0"
+      displayName="Shiny Tools"
+      updateJSONURL="https://raw.githubusercontent.com/rfsjim/ShinyTools/main/update.json"
+      displayURL="https://github.com/rfsjim/ShinyTools"
+      logoFile="assets/shinytools/textures/logo.png"
+      credits="I'd like to thank my mother and father."
+      authors="jim"
+      description='''
+      Adds in shiny new tools to minecraft
+      '''
+
+      [[dependencies.shinytools]]
+        modId="forge"
+        mandatory=true
+        versionRange="[36,)"
+        ordering="NONE"
+        side="BOTH"
+
+      [[dependencies.shinytools]]
+        modId="minecraft"
+        mandatory=true
+        versionRange="[1.16.5]"
+        ordering="NONE"
+        side="BOTH"
